@@ -6,7 +6,7 @@ This is a web app that displays data from MongoDB. I have never used MongoDB, Re
 
 # Web Pages
 
-There is only one web page. The web app is dynamically updated every time the database is. It's essentially a visual representation of the current state of the database.
+There is only one web page. The web app is dynamically updated every time the database is. It's essentially a visual representation of the current state of the database, whenever the administrator makes a change by adding data - it is reflected on what's rendered on the page (through REACT).
 
 # Development Environment
 
